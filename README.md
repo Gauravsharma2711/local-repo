@@ -1,0 +1,1 @@
+This is the test of connecting local repo to remote repo
